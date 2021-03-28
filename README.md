@@ -3,4 +3,4 @@ Some Description!
 
 ## Subheader
 
-Watch for more info
+Watch for more infos
